@@ -20,7 +20,7 @@ profile = {
     "interests":  ["Backend Development", "Data Science", "Machine Learning", Cybersecurity],
     "languages":  ["C++", "Python"],
     "english":    "B1 — reading docs, watching talks",
-    "now":        "Looking for internship / intensive programs 🚀",
+    "now":        "С++ Algorithms programs / Seeing for AI 🚀",
 }
 ```
 
