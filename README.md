@@ -17,7 +17,7 @@ profile = {
     "university": "MAI — Moscow Aviation Institute",
     "degree":     "B.Sc. Computer Science & IT (1st year)",
     "city":       "Moscow 🇷🇺",
-    "interests":  ["Backend Development", "Data Science", "Machine Learning", Cybersecurity],
+    "interests":  ["Backend Development"],
     "languages":  ["C++", "Python"],
     "english":    "B1 — reading docs, watching talks",
     "now":        "С++ Algorithms programs / Seeing for AI 🚀",
