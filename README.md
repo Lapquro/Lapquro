@@ -15,12 +15,12 @@
 profile = {
     "name":       "Yaroslav",
     "university": "MAI — Moscow Aviation Institute",
-    "degree":     "B.Sc. Computer Science & IT (1st year)",
+    "degree":     "B.Sc. Computer Science & IT (2nd year)",
     "city":       "Moscow 🇷🇺",
-    "interests":  ["Backend Development"],
-    "languages":  ["C++", "Python"],
+    "interests":  ["Backend Development, DevOPS"],
+    "languages":  ["C++", "Python", "C"],
     "english":    "B1 — reading docs, watching talks",
-    "now":        "С++ Algorithms programs / Seeing for AI 🚀",
+    "now":        "С++ Algorithms programs / Seeing for AI 🚀 / Begining DevOps",
 }
 ```
 
@@ -70,9 +70,9 @@ profile = {
 
 ### 🎯 Сейчас я
 
-- 📚 Прохожу первый курс МАИ — алгоритмы, дискретная математика, математический анализ, линейная алгебра, аналитическая геометрия, Python, C
-- 🐍 Развиваю навыки Python 
-- 🔍 Ищу **возможности** в сфере разработки 
+- 📚 Прохожу второй курс МАИ — алгоритмы, дискретная математика, математический анализ, линейная алгебра, аналитическая геометрия, Python, C, операционные системы, ООП и другое
+- 🐍 Развиваю навыки Python, DevOPS, AI 
+- 🔍 Ищу **возможности** 
 - 🌱 Учусь читать и понимать техническую документацию на английском
 
 ---
@@ -89,5 +89,4 @@ profile = {
 ---
 
 <div align="center">
-<sub>⚡ Открыт к новым возможностям — пишите!</sub>
 </div>
